@@ -30,38 +30,7 @@ A modern and responsive e-commerce website built with **React**, featuring produ
 
 ## 📁 Folder Structure
 
-src/
-├── components/
-│   ├── Footer.jsx
-│   └── Navbar.jsx
-├── pages/
-│   ├── AboutUs.jsx
-│   ├── Account.jsx
-│   ├── Cart.jsx
-│   ├── Checkout.jsx
-│   ├── Contact.jsx
-│   ├── FAQ.jsx
-│   ├── Home.jsx
-│   ├── Order.jsx
-│   ├── PrivacyPolicy.jsx
-│   ├── Product.jsx
-│   ├── Products.jsx
-│   ├── TermsConditions.jsx
-│   └── Wishlist.jsx
-├── App.js
-├── App.css
-├── App.test.js
-├── index.js
-├── index.css
-├── logo.svg
-├── reportWebVitals.js
-└── setupTests.js
-
-
-yaml
-Copy
-Edit
-
+src/ ├── components/ # Reusable UI components │ ├── Footer.jsx │ └── Navbar.jsx ├── pages/ # Main route-based pages │ ├── AboutUs.jsx │ ├── Account.jsx │ ├── Cart.jsx │ ├── Checkout.jsx │ ├── Contact.jsx │ ├── FAQ.jsx │ ├── Home.jsx │ ├── Order.jsx │ ├── PrivacyPolicy.jsx │ ├── Product.jsx │ ├── Products.jsx │ ├── TermsConditions.jsx │ └── Wishlist.jsx ├── App.js # App layout and routing ├── App.css # Global styles ├── App.test.js # Test setup ├── index.js # React DOM entry point ├── index.css # Base styling ├── logo.svg # Placeholder logo asset ├── reportWebVitals.js # Performance measuring └── setupTests.js # Test configuration
 ---
 
 ## 🔄 User Flow
