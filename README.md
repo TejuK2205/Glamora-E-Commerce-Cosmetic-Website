@@ -36,6 +36,10 @@ src/
 │   ├── Footer.jsx
 │   └── Navbar.jsx
 ├── pages/
+│   ├──auth
+|   |   ├── Login.jsx
+|   |   ├── Signup.jsx
+|   |   ├── Forgotpassword.jsx
 │   ├── AboutUs.jsx
 │   ├── Account.jsx
 │   ├── Cart.jsx
