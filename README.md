@@ -2,10 +2,7 @@
 
 A modern and responsive e-commerce website built with **React**, featuring product listing, detailed views, cart and wishlist functionality. Designed to simulate a real-world cosmetics store experience with smooth navigation and modular components.
 
-
----
-
-Demo  Link: [Link Text]('https://drive.google.com/file/d/1v-0ed11uZvQgeKxVqSAUE1Qv_BjkLlkz/view?usp=sharing')
+[Demo  Video](https://drive.google.com/file/d/1v-0ed11uZvQgeKxVqSAUE1Qv_BjkLlkz/view?usp=sharing)
 
 ---
 
